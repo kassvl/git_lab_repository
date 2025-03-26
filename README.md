@@ -5,7 +5,9 @@ This project demonstrates version control with PyCharm, Git, and GitHub, along w
 ## Project Structure
 
 - `main.py`: The main Python script
+- `calculator.py`: Calculator class with basic arithmetic operations
 - `test_main.py`: Unit tests for the main script
+- `test_calculator.py`: Unit tests for the calculator class
 - `.github/workflows/main.yml`: CI/CD configuration for GitHub Actions
 
 ## Setup Instructions
